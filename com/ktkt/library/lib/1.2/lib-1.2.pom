@@ -20,17 +20,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <artifactId>tdk-0607</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
       <groupId>in.srain.cube.views.ptr</groupId>
       <artifactId>lib</artifactId>
       <version>1.0</version>
